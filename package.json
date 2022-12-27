@@ -1,0 +1,27 @@
+{
+  "name": "@rds-website-www/squarepkg",
+  "version": "1.0.0",
+  "description": "just square but not square",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAYATEJA04/npm-test.git"
+  },
+  "keywords": [
+    "OMG!",
+    "is",
+    "that",
+    "square",
+    "package.",
+    "WOW."
+  ],
+  "author": "Jaya Teja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAYATEJA04/npm-test/issues"
+  },
+  "homepage": "https://github.com/JAYATEJA04/npm-test#readme"
+}
